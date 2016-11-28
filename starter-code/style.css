@@ -9,7 +9,7 @@ h2 {
 	color: #ffd700;
 }
 
-#game-board {
+.board {
 	display: inline-block;
 	height: 50%;
 	width: 50%;
@@ -23,6 +23,10 @@ h2 {
 	border-radius: 10px;
 	float: left;
 	margin: 8%;
+}
+img {
+	height: 220px;
+	width: 165px;
 }
 #creator {
 	color: #ff0000;
